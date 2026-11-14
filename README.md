@@ -90,7 +90,7 @@ Personal or domestic use by an individual is outside the Act. A paper register t
 You need Node.js 22 or newer. No extra packages are installed.
 
 ```bash
-git clone https://github.com/advisoraman/OpenConsent.git
+git clone https://github.com/cybrot-official/OpenConsent.git
 cd OpenConsent
 npm start
 ```
